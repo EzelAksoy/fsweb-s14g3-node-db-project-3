@@ -8,10 +8,10 @@ Projeyi forklayın, clone'layın ve sıkça commitlemeyi unutmayın.
 
 ### Veritabanı
 
-Veritabanı projede kullanılmak üzere sizin için hazırlandı. 
+Veritabanı projede kullanılmak üzere sizin için hazırlandı.
 👉 Veriler, `npm run seed` çalıştırılarak herhangi bir zamanda sıfırlanabilir. 👈
 
-Öncelikle SQLite Studio(önerilir) gibi bir araç kullanarak veya VS Code'a SQLite Viewer extension'ını yükleyerek  `data/schemes.db3` dosyasını açın ve `schemes` ve `steps` tablolarındaki verileri inceleyin.
+Öncelikle SQLite Studio(önerilir) gibi bir araç kullanarak veya VS Code'a SQLite Viewer extension'ını yükleyerek `data/schemes.db3` dosyasını açın ve `schemes` ve `steps` tablolarındaki verileri inceleyin.
 
 ### API
 
